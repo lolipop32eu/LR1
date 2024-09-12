@@ -17,3 +17,5 @@ studentRemover(List<Student>) - removes students with average score less than 3 
 
 
 *** THIS PROGRAM DOES NOT CONTAINS TOOLS OF INTERECTION BETWEEN USER AND SERVER, DOES NOT CONNECT WITH ANY SQL TABLE, DOES NOT IMPLEMENTS DAO SAMPLE
+
+I used here : types primitive and references, basis of OOP, Generics,Java Collections Framework(List<>, ArrayList<>).
